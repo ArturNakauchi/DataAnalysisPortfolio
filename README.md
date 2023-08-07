@@ -1,4 +1,4 @@
-# Porfolio Hub for DA Projects
+# Portfolio Hub for DA Projects
 
 This page was made with the intent of serving a information/code hub for all the portfolio work I'll be working on.
 
