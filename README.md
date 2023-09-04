@@ -9,7 +9,7 @@ I'm journaling all the steps on this Notion [wiki page](https://www.notion.so/b3
 
 Follow me on LinkedIn: [Artur Freires](https://www.linkedin.com/in/arturfreires/)
 
-My main landing page: [github.com/ArturNakauchi/NakachiWebsite.github.io](https://github.com/ArturNakauchi/NakachiWebsite.github.io)https://github.com/ArturNakauchi/NakachiWebsite.github.io (WIP)
+My main landing page: [github.com/ArturNakauchi/NakachiWebsite.github.io](https://github.com/ArturNakauchi/NakachiWebsite.github.io) (WIP)
 
 Thanks for stopping by
 
